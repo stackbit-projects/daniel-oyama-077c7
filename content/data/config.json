@@ -49,7 +49,8 @@
                 "url": "/pricing",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo_alt": "El taco en llamas"
     },
     "footer": {
         "logo": "images/classic/logo.svg",
